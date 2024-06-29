@@ -2,16 +2,6 @@
 
 This project is a simple chatbot interface built using Flask, Sentence Transformers, and a pre-trained embedding model.
 
-## Project Structure
-Langchain_chatbot/
-├── app.py                # Flask application
-├── embeddings_store.py   # Script to store document embeddings
-├── embeddings.json       # JSON file storing embeddings and documents
-├── requirements.txt      # Python dependencies
-├── templates/            # Directory for HTML templates
-│   └── index.html        # HTML template for the chatbot interface
-└── static/               # Optional directory for CSS/JS files
-
 ## Requirements
 
 - Python 3.7 or higher
